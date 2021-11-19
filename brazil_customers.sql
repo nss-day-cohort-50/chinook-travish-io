@@ -1,3 +1,3 @@
 SELECT CustomerId, FirstName, LastName, Country
 FROM Customer
-WHERE Country != 'USA';
+WHERE Country = 'Brazil';
