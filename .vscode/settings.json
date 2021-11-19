@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "chinook-db",
+            "database": "C:\\Users\\THall\\OneDrive\\Desktop\\NSS stuff\\Chinook_Sqlite.sqlite"
+        }
+    ]
+}
